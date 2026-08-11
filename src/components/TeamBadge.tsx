@@ -1,6 +1,6 @@
 import Image from "next/image";
 import type { Team } from "@/lib/types";
-import { colorForTeam, initialsForTeam } from "@/lib/format";
+import { colorForTeam, initialsForTeam, withBasePath } from "@/lib/format";
 
 const SIZES = { sm: 24, md: 32, lg: 48 } as const;
 
@@ -19,7 +19,7 @@ export default function TeamBadge({
         className="relative inline-block shrink-0 overflow-hidden rounded-full bg-white ring-1 ring-black/10 dark:ring-white/15"
         style={{ width: px, height: px }}
       >
-        <Image src={team.logo} alt={team.name} fill sizes={`${px}px`} className="object-cover" />
+        <Image src={withBasePath(team.logo)} alt={team.name} fill sizes={`${px}px`} className="object-cover" />
       </span>
     );
   }

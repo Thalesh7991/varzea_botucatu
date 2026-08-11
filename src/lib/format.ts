@@ -1,3 +1,8 @@
+export function withBasePath(path: string): string {
+  const base = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  return `${base}${path}`;
+}
+
 export function formatDate(iso: string | null): string {
   if (!iso) return "Data a definir";
   const [year, month, day] = iso.split("-");
