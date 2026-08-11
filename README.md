@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Várzea Botucatu
 
-## Getting Started
+Site para acompanhar o Campeonato Botucatuense de Futebol (Série A) da várzea de Botucatu: classificação, resultados, artilharia, cartões e simulação de rodadas futuras.
 
-First, run the development server:
+Feito em Next.js (App Router) + TypeScript + Tailwind, com export estático para publicação no GitHub Pages.
+
+## Rodando localmente
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Dados
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Os dados ficam em `data/*.json` e são a fonte de verdade do site — nada é buscado de uma API externa:
 
-## Learn More
+- `data/config.json` — nome do campeonato, grupos, nº de classificados, critérios de desempate.
+- `data/teams.json` — times por grupo.
+- `data/players.json` — jogadores com gols e cartões **acumulados** (espelha as tabelas de Artilharia e Relação de Cartões do BID mais recente).
+- `data/matches.json` — todos os jogos (realizados e agendados).
 
-To learn more about Next.js, take a look at the following resources:
+### Atualizando com um novo BID
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Os Boletins Informativos Desportivos (BID) da Prefeitura de Botucatu trazem, a cada edição, a lista **acumulada** de resultados, artilharia e cartões até aquele momento (ficam salvos em `docs/bids/`). Ao receber um novo BID:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Substitua a tabela de `data/players.json` pelos números atualizados de ARTILHARIA e RELAÇÃO DE CARTÕES do boletim (são acumulados, então é uma troca direta, não uma soma).
+2. Adicione ao final de `data/matches.json` os jogos novos que apareceram em "RESULTADO DOS JOGOS" (com `status: "realizado"`).
+3. Atualize os jogos agendados (`status: "agendado"`) com a seção "PRÓXIMA RODADA" do boletim.
+4. Atualize `data/config.json` → `ultimoBoletim`.
 
-## Deploy on Vercel
+## Deploy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O workflow em `.github/workflows/deploy.yml` builda o site (`next build`, export estático em `out/`) e publica no GitHub Pages a cada push na branch `main`. Para ativar:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Repositório: [Thalesh7991/varzea_botucatu](https://github.com/Thalesh7991/varzea_botucatu).
+2. Em **Settings → Pages**, selecione a origem "GitHub Actions".
+3. Dê push na `main` — o site fica em `https://thalesh7991.github.io/varzea_botucatu/`.
+
+Se o nome do repositório no GitHub mudar, atualize a constante `repoName` em `next.config.ts`.

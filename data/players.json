@@ -1,0 +1,3385 @@
+[
+  {
+    "id": "amigos-da-bola-1",
+    "name": "AGEU SILVA DOS SANTOS",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-2",
+    "name": "ALECSON CONCEIÇÃO SOUZA DOS SANTOS",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "amigos-da-bola-3",
+    "name": "ALEX SANDE PEREIRA BARBOSA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-4",
+    "name": "ANDERSON FONSECA MUNIZ DOMINGUES",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-5",
+    "name": "ATANAEL PEREIRA DA SILVA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-6",
+    "name": "CARLOS FERNÃO MELO DAS NEVES",
+    "teamId": "amigos-da-bola",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-7",
+    "name": "DEIDJACSON CONCEIÇÃO SOUZA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "amigos-da-bola-8",
+    "name": "DENILSON DE CARVALHO ROCHA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-9",
+    "name": "DIEGO RODRIGO DE OLIVEIRA JUNIOR",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-10",
+    "name": "FABIANO SOARES LIMA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-11",
+    "name": "FELIPE WILLIAM LEITE TEIXEIRA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-12",
+    "name": "FRANCISCO DOUGLAS DA SILVA CALIXTO",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-13",
+    "name": "GABRIEL DE JESUS SANTOS",
+    "teamId": "amigos-da-bola",
+    "gols": 3,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-14",
+    "name": "GUILHERME AUGUSTO BIAGIO SPADOTTO",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "amigos-da-bola-15",
+    "name": "HUGO HENRIQUE DA SILVA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-16",
+    "name": "KAUAN VICTOR MONTEIRO DA SILVA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-17",
+    "name": "KELLVEN CRISTYAN MUNIZ HENRIQUE",
+    "teamId": "amigos-da-bola",
+    "gols": 1,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-19",
+    "name": "LEANDRO APARECIDO DE ALMEIDA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-20",
+    "name": "LEANDRO DENER MORETTI CAETANO DO NASCIMENTO",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-21",
+    "name": "LUIS FELIPE RAMOS NANTES",
+    "teamId": "amigos-da-bola",
+    "gols": 2,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-22",
+    "name": "LUIS GUSTAVO DA SILVA PEREIRA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-23",
+    "name": "LUIZ GONZAGA DOS SANTOS JUNIOR",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-24",
+    "name": "MIZAEL SILVA DOS SANTOS",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-25",
+    "name": "PATRICK DONATO TEIXEIRA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-26",
+    "name": "PAULO SERGIO SIMPLICIO PEREIRA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-27",
+    "name": "RAFAEL APARECIDO BIAZON",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-28",
+    "name": "THIELLISON MUNIZ SOUZA ALVES",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-29",
+    "name": "VITOR EDUARDO PASSARELLI VICENA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-da-bola-30",
+    "name": "WALLACE VALDECIR JONAS DA SILVA",
+    "teamId": "amigos-da-bola",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-1",
+    "name": "ADRIANO BARBOSA DE SOUZA",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-2",
+    "name": "ANTONIO SILVA DE SOUZA JUNIOR",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-3",
+    "name": "BRUNO AMBROSIO DA SILVA",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-4",
+    "name": "FRANCISCO RAMON DA SILVA SANTOS",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-5",
+    "name": "JACKSON MIKAEL MARINHO BONETTI PEREIRA",
+    "teamId": "amigos-do-bita",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-6",
+    "name": "JHONATAN WILLIAN FERREIRA CARRIEL",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-7",
+    "name": "JOÃO GABRIEL PEREIRA DA SILVA",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-8",
+    "name": "JOÃO VYTOR DE SOUZA BUENO",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-9",
+    "name": "JORDEUGO DA SILVA",
+    "teamId": "amigos-do-bita",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "amigos-do-bita-10",
+    "name": "KAWAN GUIMARÃES DOS SANTOS",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-11",
+    "name": "KAYKY WICTOR ANDRADE GARCIA",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-12",
+    "name": "LEONARDO RAFAEL ROMÃO GOMES",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-13",
+    "name": "LUAN SIMEÃO DOS SANTOS",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-14",
+    "name": "LUIS CÉSAR DA SILVA",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-15",
+    "name": "LUIZ FELIPE PEREIRA DA SILVA",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-16",
+    "name": "MATHEUS FELIPE VALENTIM",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-17",
+    "name": "MURILO AUGUSTO MONTEZORI",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-18",
+    "name": "NICOLAS ALVES GARRO",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-19",
+    "name": "PABLO REIS BARBOSA CARDOSO",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-20",
+    "name": "PEDRO HENRIQUE MINATEL",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-21",
+    "name": "RAFAEL CORREA DE MORAES",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-22",
+    "name": "RENATO HENRIQUE ALVES GOMES",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-23",
+    "name": "RUAN REIS BARBOSA CARDOSO",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-24",
+    "name": "VINICIUS FONSECA DE PAULA",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-25",
+    "name": "VITOR LUCIANO CELESTINO",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "amigos-do-bita-26",
+    "name": "WASHINGTON ALVES DE SANTANA",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-27",
+    "name": "WELLINGTON FERNANDO PIRES",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "amigos-do-bita-28",
+    "name": "WILLIAN DOUGLAS DA SILVA BALDIN",
+    "teamId": "amigos-do-bita",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-1",
+    "name": "AILTON GABRIEL DA CONCEIÇÃO MATIAS",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-2",
+    "name": "ANTONIO RAMOS NETO",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-3",
+    "name": "CLEITON SERRA DO NASCIMENTO",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-4",
+    "name": "DOUGLAS EDUARDO RODRIGUES DE JESUS",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-5",
+    "name": "GABRIEL CASSIOLA BOZZA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-6",
+    "name": "GIOVANNI SILVA D'ANGELO LUQUE",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-7",
+    "name": "GUILHERME ARAUJO DE FREITAS",
+    "teamId": "atletico-botucatuense",
+    "gols": 2,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-8",
+    "name": "GUSTAVO BELLATO MIRANDA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-9",
+    "name": "GUSTAVO DUTRA DE OLIVEIRA",
+    "teamId": "atletico-botucatuense",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-10",
+    "name": "GUSTAVO FLAVIO DE CAMPOS",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-11",
+    "name": "HIGOR DANIEL GOMES",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-12",
+    "name": "IAGO JUNIOR ALMEIDA D'IMPERIO",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-13",
+    "name": "ISAC NASCIMENTO DE OLIVEIRA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-14",
+    "name": "JOÃO VITOR DE OLIVEIRA MAZZA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-15",
+    "name": "KAYKY SERRA DA SILVA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso"
+  },
+  {
+    "id": "atletico-botucatuense-16",
+    "name": "LEANDRO JOSE DA SILVA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-17",
+    "name": "LEONARDO DE OLIVEIRA CAMARGO",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-18",
+    "name": "LEONARDO HENRIQUE GOMES DALAQUA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-19",
+    "name": "LEONE SILVA D'ANGELO LUQUE",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-20",
+    "name": "LUIS HENRIQUE MARTINS DOS SANTOS",
+    "teamId": "atletico-botucatuense",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-21",
+    "name": "LUIZ ANTONIO DEL PESO DA SILVA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-22",
+    "name": "LUIZ FELIPE COLENCI",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-23",
+    "name": "LUIZ GUSTAVO DOS SANTOS",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-24",
+    "name": "LUIZ HENRIQUE DEL PESO DA SILVA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-25",
+    "name": "LUIZ OTAVIO PASTINA VENTURELLI",
+    "teamId": "atletico-botucatuense",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-26",
+    "name": "LUIZ OTAVIO PASTINA VENTURELLI",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-27",
+    "name": "MARCOS ROBERTO POFFO JUNIOR",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-28",
+    "name": "MOISES ARION MORALETES",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-29",
+    "name": "NEWTON COLENCI NETO",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-30",
+    "name": "TCHAGO MARTINS SANTOS ROCHA",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "atletico-botucatuense-31",
+    "name": "VINICIUS OLIVEIRA LEITE",
+    "teamId": "atletico-botucatuense",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-1",
+    "name": "ALAF OLIVEIRA SANTOS",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-2",
+    "name": "AQUILES DA TRINDADE JUNIOR",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-3",
+    "name": "ARTHUR KAIO DA CRUZ COELHO",
+    "teamId": "beira-rio",
+    "gols": 2,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-4",
+    "name": "CASSIANO AUGUSTO TOMAZ FLORO",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-5",
+    "name": "DOUGLAS FONSECA DOS SANTOS",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-6",
+    "name": "FELIPE GABRIEL SILVA MOURA",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-7",
+    "name": "FILIPE RIBAS BARDUCO",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-8",
+    "name": "GABRIEL DOS SANTOS FERREIRA",
+    "teamId": "beira-rio",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-9",
+    "name": "HENRY FILYPE DA SILVA REIS",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-10",
+    "name": "JOÃO EUDES PEREIRA SIMPLICIO",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-11",
+    "name": "JOSE LUIZ PEREIRA SIMPLICIO",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-12",
+    "name": "JULIANO MENDES DA SILVA",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-13",
+    "name": "KAUAN HENRIQUE AOKI LOPES",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-14",
+    "name": "LUCAS RODRIGUES BARROS",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-15",
+    "name": "LUIS FERNANDO CUSTODIO BALDI",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-16",
+    "name": "MARCELO RICARDO GOUVEIA MAIA",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-17",
+    "name": "MARCOS VINICIUS DE CARVALHO",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-18",
+    "name": "MATEUS LINHARES FUDOLI",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-19",
+    "name": "NICOLAS MACHADO LOPES",
+    "teamId": "beira-rio",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-20",
+    "name": "THIAGO MARIOTTO DE OLIVEIRA",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-21",
+    "name": "VICTOR GABRIEL DA SILVA MATOS ARAGÃO",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-22",
+    "name": "VINICIUS CABRAL RODRIGUES",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-23",
+    "name": "VINICIUS MEDINA DE FARIAS",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-24",
+    "name": "WILLIAN GABRIEL VIEIRA DOS SANTOS",
+    "teamId": "beira-rio",
+    "gols": 2,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "beira-rio-25",
+    "name": "WILLIAN ROBERTO ROMUALDO",
+    "teamId": "beira-rio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-1",
+    "name": "ADRIANO GOMES JUNIOR",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-2",
+    "name": "ALEX RENAN RIBEIRO MARTINS JUNIOR",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-3",
+    "name": "BRUNO DA SILVA MARIACE",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-4",
+    "name": "DAVID DONIZETE ANTUNES",
+    "teamId": "bola-1",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-5",
+    "name": "DOUGLAS FOGAÇA MAGALHÃES PEREIRA",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-6",
+    "name": "DURVAL CORTEZ",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-7",
+    "name": "EDUARDO RAFAEL",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-8",
+    "name": "ELISEU RODRIGUES SANTANA DA SILVA",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-9",
+    "name": "FELIPE APARECIDO PADILHA MONTEIRO",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-10",
+    "name": "FELIPE CARREIRA PINTO",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-11",
+    "name": "FELIPE GABRIEL SILVA MOURA",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-12",
+    "name": "FLAVIO SANTOS OLIVEIRA",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-13",
+    "name": "GABRIEL GARCIA FRAGA DE OLIVEIRA",
+    "teamId": "bola-1",
+    "gols": 2,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-14",
+    "name": "GEAN CARLOS CORREA BARBOSA",
+    "teamId": "bola-1",
+    "gols": 2,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-15",
+    "name": "GUSTAVO VIEIRA FOGAÇA",
+    "teamId": "bola-1",
+    "gols": 2,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-16",
+    "name": "IVO APARECIDO DE CARVALHO NETO",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-17",
+    "name": "JOÃO GABRIEL GONÇALVES RIBEIRO",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-18",
+    "name": "JOÃO VITOR DOS SANTOS",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-19",
+    "name": "JOAQUIM CORTEZ",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-20",
+    "name": "JUDIVAN DE OLIVEIRA SANTANA",
+    "teamId": "bola-1",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-21",
+    "name": "JULIO CESAR GOMES DOS SANTOS",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-22",
+    "name": "LUIZ FELIPE MARIANO",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-23",
+    "name": "MATHEUS DE ROSA LIRA",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "bola-1-24",
+    "name": "MURILO ALVES MARTINS",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-25",
+    "name": "VINICIUS LEITE",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-26",
+    "name": "WAGNER AUGUSTO LEOPOLDINO",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "bola-1-27",
+    "name": "WILLIAN DE OLIVEIRA MOURA",
+    "teamId": "bola-1",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-1",
+    "name": "ADNAN VITORIO DIAS",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-2",
+    "name": "ALEXANDRE DA SILVA",
+    "teamId": "cuesta",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-3",
+    "name": "ANDRE LUIS RIBEIRO DA SILVA",
+    "teamId": "cuesta",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-4",
+    "name": "BRENO HENRIQUE PASSOS GOMES",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-5",
+    "name": "BRUNO VINICIUS DOS SANTOS",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-6",
+    "name": "CLEYTON COSTA SANTOS",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-7",
+    "name": "EDUARDO ANDRADE IGNACIO",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-8",
+    "name": "FELIPE MARTINS CRISTAL",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-9",
+    "name": "GUILHERME AUGUSTO FERREIRA DA COSTA",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-10",
+    "name": "GUILHERME DOS SANTOS",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-11",
+    "name": "GUILHERME PAES DE ALMEIDA",
+    "teamId": "cuesta",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-12",
+    "name": "HENRIQUE CAMILO DE OLIVEIRA",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-13",
+    "name": "IGOR HENRIQUE DA SILVA ALVES",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-14",
+    "name": "LAERCIO GIOVANI BURANELLO",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-15",
+    "name": "LEONARDO SILVA CARVALHO",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-16",
+    "name": "MAICON CESAR COELHO ROSA",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-17",
+    "name": "MATHEUS FRANCISCO FUMES ARRUDA",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-18",
+    "name": "NIKOLAS FERNANDES DE OLIVEIRA",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-19",
+    "name": "OSCAR BORGES DE SOUZA",
+    "teamId": "cuesta",
+    "gols": 2,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-20",
+    "name": "PABLO HENRIQUE CEARA TAMAZ",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-21",
+    "name": "PEDRO HENRIQUE LOPES DOS SANTOS",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-22",
+    "name": "RAFAEL GODOY",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-23",
+    "name": "RENATO PEREIRA JUNIOR",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-24",
+    "name": "ROBSON CRUZ DOS SANTOS",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-25",
+    "name": "ROGERIO CRISTIANO CARDOSO",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-26",
+    "name": "THEODORO BARROS DI PIERO",
+    "teamId": "cuesta",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-27",
+    "name": "VANDERSON FRANCISCO SARAIVA",
+    "teamId": "cuesta",
+    "gols": 2,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-28",
+    "name": "VINICIUS AUGUSTO ADELINO DE ARAUJO",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "cuesta-29",
+    "name": "VINICIUS CHRISTINO PROCOPIO",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso"
+  },
+  {
+    "id": "cuesta-30",
+    "name": "WESLEY RODRIGUES DE LIMA",
+    "teamId": "cuesta",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-1",
+    "name": "ADRIANO CATUREBA DE JESUS",
+    "teamId": "dinamite",
+    "gols": 5,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-2",
+    "name": "ALEX ALBERTO RODRIGUES",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-3",
+    "name": "ALEX JÚNIOR DE OLIVEIRA BORGES",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-4",
+    "name": "ARTUR VITOR SILVA PEREIRA DE JESUS",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "dinamite-5",
+    "name": "CAIO HENRIQUE",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-6",
+    "name": "ELIEL DOS SANTOS",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-7",
+    "name": "ENZO GABRIEL DIAS S. MATIAS",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-8",
+    "name": "ERIVELTON RODRIGUES DOS SANTOS",
+    "teamId": "dinamite",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-9",
+    "name": "EVANDRO BRUDER PERGER",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-10",
+    "name": "GERSON A. COELHO DE ANDRADE JUNIOR",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-11",
+    "name": "GILSSYE RICHARDS SOUSA RIBEIRO",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-12",
+    "name": "GUSTAVO FELIPE DOS SANTOS",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "dinamite-13",
+    "name": "GUSTAVO HENRIQUE L. JORGE",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-14",
+    "name": "IVAN SANTOS LEME",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-15",
+    "name": "JOÃO GABRIEL LEANDRO DA SILVA",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-16",
+    "name": "JOÃO VITOR SANTOS LEME",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-17",
+    "name": "JONATAS MESSIAS FRANCISCO ZAMBALAN",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-18",
+    "name": "JULIO CESAR DA SILVA CORDEIRO",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "pendurado/suspenso"
+  },
+  {
+    "id": "dinamite-19",
+    "name": "LEONARDO SPADOTTO FUMIS",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-20",
+    "name": "LUIZ FELIPE HONORATO BERALDO",
+    "teamId": "dinamite",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-21",
+    "name": "MARCOS PAULO RIBEIRO DA SILVA",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-22",
+    "name": "OSVALDO LUIZ BASSETO DE FREITAS",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-23",
+    "name": "PAULO AFONSO ALVES",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-24",
+    "name": "RAFAEL APARECIDO VIANA DE DEUS",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-25",
+    "name": "RAPHAEL AUGUSTO NUNES",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-26",
+    "name": "SAMUEL CARLOS BASSETO DE FREITAS",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-27",
+    "name": "TIAGO FELIPE FERREIRA DA SILVA",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-28",
+    "name": "VALDEIR EDSON DOS SANTOS",
+    "teamId": "dinamite",
+    "gols": 1,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-29",
+    "name": "VANCLEI DE JESUS MOREIRA",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "dinamite-30",
+    "name": "VITOR LIMA",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dinamite-31",
+    "name": "WAGNER EDUARDO DE OLIVEIRA",
+    "teamId": "dinamite",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-1",
+    "name": "ADORAI DOK HIRON LAURENT DE PAULA",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-2",
+    "name": "ANDREI ALESSANDRO SILVERIO TEIXEIRA",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-3",
+    "name": "ANTONIO AUGUSTO DE FREITAS",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-4",
+    "name": "ANTONIO JORDIEGO DA SILVA",
+    "teamId": "dkebra",
+    "gols": 2,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-5",
+    "name": "ANTÔNIO RENATO DA SILVA MACÁRIO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-6",
+    "name": "BRENDO VINICIUS BENTO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-7",
+    "name": "DANIEL PEREIRA DOS SANTOS",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-8",
+    "name": "DANILO MEDOLA VICENTE",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-9",
+    "name": "DIEGO FERNANDO DA SILVA VAZ",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-10",
+    "name": "DOUGLAS BENEDITO DA SILVA",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-11",
+    "name": "FABIO ALVES LIME MARQUES",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-12",
+    "name": "GABRIEL RICARDO AMBROSIO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-13",
+    "name": "GIOVANI GUILHERME GONÇALVES",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-14",
+    "name": "GUILHERME FIORUCCI GARCIA",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-15",
+    "name": "GUILHERME MACHADO NETO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-16",
+    "name": "IGOR DE OLIVEIRA BISPO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-17",
+    "name": "JOÃO VICTOR SPINA GERMIN",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-18",
+    "name": "JOÃO VITOR RODRIGUES",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-19",
+    "name": "JONATHAN ALBERTO FORTE",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-20",
+    "name": "JOSIAS APARECIDO CUSTODIO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-21",
+    "name": "LEONARDO DE OLIVEIRA ANTONIO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-22",
+    "name": "LEONARDO SPINA GERMIN",
+    "teamId": "dkebra",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-23",
+    "name": "LOHAN DE OLIVEIRA GOMES PINTO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-24",
+    "name": "LUCAS HENRIQUE DA SILVA GOMES",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-25",
+    "name": "LUCAS MORAES",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-26",
+    "name": "LUIZ FERNANDO PAULO DA SILVA",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-27",
+    "name": "MATEUS VINICIUS DE ARRUDA",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-28",
+    "name": "MATHEUS CARVALHO MACHADO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso"
+  },
+  {
+    "id": "dkebra-29",
+    "name": "PETERSON TIAGO DA SILVA",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-30",
+    "name": "RENAN APARECIDO GARCIA DE SOUZA",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-31",
+    "name": "SAVIO DONIZETE ZACARIAS",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "dkebra-32",
+    "name": "WILLIAN DA SILVA BUENO",
+    "teamId": "dkebra",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-1",
+    "name": "BRUNO HENRIQUE DE SOUSA MATOS",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-2",
+    "name": "CARLOS EDUARDO FERREIRA SOUZA",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-3",
+    "name": "CAYNÃ HENRIQUE MENDES PIZONI",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-4",
+    "name": "DOUGLAS WELITON PEREIRA",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-5",
+    "name": "ELDER APARECIDO BENTO",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-6",
+    "name": "EVERTON ANTONIO SANT ANA OLAIO DE BRITO",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-7",
+    "name": "FERNANDO HENRIQUE SOARES",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-8",
+    "name": "HENRIQUE GABRIEL FERNANDES",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-9",
+    "name": "HENRY GABRIEL SOARES COSTA",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-10",
+    "name": "ISAC MIGUEL DOS SANTOS PEREIRA",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-11",
+    "name": "JOÃO PEDRO FERREIRA RECUCHI",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-12",
+    "name": "JOÃO VICTOR DAS FLORES PIRES",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-13",
+    "name": "JOÃO VITOR BIRAL DE ARAUJO",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-14",
+    "name": "KAIO FELYPE FUSCO",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-15",
+    "name": "KAYKE RONCALLI PERGER",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-16",
+    "name": "LEANDRO RODRIGUES",
+    "teamId": "expressinho",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-17",
+    "name": "LEONARDO RODRIGUES",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-18",
+    "name": "LUCAS FERNANDO DE SOUSA MATOS",
+    "teamId": "expressinho",
+    "gols": 2,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-19",
+    "name": "LUCAS LINO VIEIRA",
+    "teamId": "expressinho",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-20",
+    "name": "LUIS OTAVIO CORREA BARBOSA",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-21",
+    "name": "MARCOS JÚLIO RAMOS DOS SANTOS",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-22",
+    "name": "MATHEUS HENRIQUE DA SILVA WINCKLER",
+    "teamId": "expressinho",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-23",
+    "name": "MATHEUS HENRIQUE PEREIRA VIEIRA",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-24",
+    "name": "PAULO CESAR VIEIRA DOS SANTOS",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-25",
+    "name": "PEDRO DE ARAUJO SAUER",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-26",
+    "name": "RAFAEL RODRIGUES DOS SANTOS",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-27",
+    "name": "THIAGO RODOLFO MALAFATTI SOUZA",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-28",
+    "name": "VITOR GALDI BARÇALONE",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "expressinho-29",
+    "name": "WELLINGTON SOARES DA SILVA",
+    "teamId": "expressinho",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-1",
+    "name": "BRUNO ALBERTO GODOY",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-2",
+    "name": "CHARLES PEREIRA DE SOUZA FILHO",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-3",
+    "name": "DANILO TADEU ETTORE GIOVANETTI",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "garagem-4",
+    "name": "DEIVID VINICIUS SARAIVA CAMARGO",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-5",
+    "name": "ELTON PURGER DA SILVA",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-6",
+    "name": "FELIPE OLIVEIRA BRAZ",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-7",
+    "name": "FELIPE ROBERTO RAIMUNDO",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-8",
+    "name": "FERNANDO CORREIA",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-9",
+    "name": "GENIVALDO DE OLIVEIRA",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-10",
+    "name": "GUILHERME FELIPE DOS SANTOS",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-11",
+    "name": "IGOR HENRIQUE QUERINO DA LUZ",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-12",
+    "name": "JOÃO OCTÁVIO GERMANO DE SOUZA",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-13",
+    "name": "JOÃO VICTOR FERNANDES",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-14",
+    "name": "JONE VIANA DE ALENCAR",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "garagem-15",
+    "name": "JORDIEGO APARECIDO DA SILVA",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-16",
+    "name": "KAUAN FERNANDES ALMEIDA",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-17",
+    "name": "LUCAS DE CAMPOS",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-18",
+    "name": "LUCAS VINICIUS DE OLIVEIRA CARNEIRO",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-19",
+    "name": "LUIZ ANTONIO BISPO JUNIOR",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-20",
+    "name": "MAICON ALESSANDRO TOME CUNHA",
+    "teamId": "garagem",
+    "gols": 1,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-21",
+    "name": "MATHEUS ALEC SILVA GUIMARAES",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-22",
+    "name": "NATAN FELIPE FREITAS DOS SANTOS",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-23",
+    "name": "NICOLAS ANDRE DA SILVA",
+    "teamId": "garagem",
+    "gols": 5,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-24",
+    "name": "NICOLAS ANDREY CRISPIM RODRIGUES",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-25",
+    "name": "PAULO HENRIQUE PEDROZO CAMARGO",
+    "teamId": "garagem",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "garagem-26",
+    "name": "SAMUEL HENRIQUE DA SILVA",
+    "teamId": "garagem",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-1",
+    "name": "ALAN CAIQUE MADOGLIO",
+    "teamId": "monte-mor",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-2",
+    "name": "BENEDITO MATIAS MARCELO",
+    "teamId": "monte-mor",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-3",
+    "name": "DANIEL JAIME MOREIRA DE SIQUEIRA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-4",
+    "name": "DANILO DE OLIVEIRA",
+    "teamId": "monte-mor",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-5",
+    "name": "DIOGO HENRIQUE DE SOUZA",
+    "teamId": "monte-mor",
+    "gols": 2,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-6",
+    "name": "EVAIR LOURENÇO RODRIGUES DO CARMO",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-7",
+    "name": "FELIPE SILAS MATISEU",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-8",
+    "name": "GUILHERME MENDES DE SOUZA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-9",
+    "name": "IGOR BESSA GONÇALVES",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-10",
+    "name": "JOÃO CLEBER DA SILVA GOMES",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-11",
+    "name": "JOÃO LUCAS BELMONT",
+    "teamId": "monte-mor",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-12",
+    "name": "JOÃO PEDRO OLIVEIRA MACHADO",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-13",
+    "name": "JOÃO RAFAEL GORGONIO",
+    "teamId": "monte-mor",
+    "gols": 2,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-14",
+    "name": "KAYKY ENZO SILVA DE CARVALHO",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-15",
+    "name": "LEONARDO APARECIDO FERREIRA DUTRA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-16",
+    "name": "LUIZ FELIPE BARBOSA CALDEIRA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-17",
+    "name": "LUIZ OTAVIO CAMARGO ALVES",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-18",
+    "name": "MAILON HENRIQUE ROCHA MOREIRA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-19",
+    "name": "MARINO DA SILVA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-20",
+    "name": "MATHEUS FELIPE BORGES",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-21",
+    "name": "MATHEUS FELIPE MENDES DE SOUZA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-22",
+    "name": "MATHEUS FERNANDES SAUER",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-23",
+    "name": "MATHEUS VICENTE DE OLIVEIRA FAVORITO",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-24",
+    "name": "PABLO HENRIQUE FRANCO ALVES",
+    "teamId": "monte-mor",
+    "gols": 1,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-25",
+    "name": "RAFAEL DOS SANTOS SILVA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-26",
+    "name": "RAFAEL TEIXEIRA DA SILVA",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-27",
+    "name": "RENAN JUNIOR DA LUZ",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-28",
+    "name": "VICTOR HUGO BARBOSA VAZ",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-29",
+    "name": "VINICIUS AURELIANO",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "monte-mor-30",
+    "name": "WILLIAN EMMANUEL DA ROCHA DARROS",
+    "teamId": "monte-mor",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-1",
+    "name": "AGNER MATEUS RIBEIRO",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-2",
+    "name": "BRUNO REGUINI DE BRANDI",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-3",
+    "name": "DANILO THIAGO DA SILVA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "primeiro-de-maio-4",
+    "name": "DOUGLAS MENDONÇA MOREIRA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-5",
+    "name": "ELTON APARECIDO MENDONÇA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-6",
+    "name": "GABRIEL AUGUSTO MARTINS DE LIMA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-7",
+    "name": "GABRIEL GARCIA LORETTI",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "primeiro-de-maio-8",
+    "name": "JOÃO PEDRO DA CRUZ CAVALCANTE NASCIMENTO",
+    "teamId": "primeiro-de-maio",
+    "gols": 3,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-9",
+    "name": "JOÃO VICTOR MENDES COLDIBELI",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-10",
+    "name": "JOSE LEANDRO NOBRE NASCIMENTO",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-11",
+    "name": "KAUÃ MENDONÇA MOREIRA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-12",
+    "name": "LUCAS MATEUS LOURENÇO SILVA DIAS",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-13",
+    "name": "LUIS FERNANDO CARVALHO DE SOUZA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-14",
+    "name": "MAURILIO ALVES DA SILVA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-15",
+    "name": "MURILO FERREIRA",
+    "teamId": "primeiro-de-maio",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-16",
+    "name": "ROBERT CHRISTIAN CAMARGO",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-17",
+    "name": "SAMUEL MARQUES LACERDA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-18",
+    "name": "THIAGO DA SILVA THEODORO",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-19",
+    "name": "THIAGO RICARDO SANCHES DO AMARAL",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-20",
+    "name": "VICTOR LUIZ ALMARO PEREIRA",
+    "teamId": "primeiro-de-maio",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-21",
+    "name": "VITOR AUGUSTO RODRIGUES RIBEIRO",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-22",
+    "name": "WEDSON BARROS DA SILVA",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-23",
+    "name": "WELKER VINICIUS MARCELINO DE SOUZA",
+    "teamId": "primeiro-de-maio",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-24",
+    "name": "WESLEY SIMEAO DOS SANTOS",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "primeiro-de-maio-25",
+    "name": "WILKER COSTA TERRA SANTOS",
+    "teamId": "primeiro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-1",
+    "name": "ANSELMO DE JESUS FAZZANI FILHO",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-2",
+    "name": "BRUNO HENRIQUE VALERIO SILVA",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-3",
+    "name": "GEOVANE MENEZES DE ANDRADE",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-4",
+    "name": "GUILHERME HENRIQUE MENDES PIZONI",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-5",
+    "name": "JOÃO VITOR SANTOS MONTEIRO",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-6",
+    "name": "KAUÃ VICTOR DE CAMPOS SILVA",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-7",
+    "name": "KAUAN GABRIEL DA SILVA",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-8",
+    "name": "LUAN TEODORO DA SILVA",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-9",
+    "name": "LUCAS MATHEUS ALVES GOMES",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-10",
+    "name": "LUCAS WILSON DE SOUZA ROSA",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-11",
+    "name": "MAICON WILLIAN DE ARAUJO PINTO",
+    "teamId": "rodo",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "rodo-12",
+    "name": "MARCOS ANTONIO DE COLL TRINDADE",
+    "teamId": "rodo",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-13",
+    "name": "MATHEUS HENRIQUE DA SILVA",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-14",
+    "name": "RICARDO RIBEIRO FILHO",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-15",
+    "name": "ROGERIO VINICIUS DA CRUZ CORREIA",
+    "teamId": "rodo",
+    "gols": 2,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-16",
+    "name": "THALES ALEXANDER MONTEIRO",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-17",
+    "name": "VITOR HUGO DE OLIVEIRA",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-18",
+    "name": "WESLEY DA SILVA SERTORIO",
+    "teamId": "rodo",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "rodo-19",
+    "name": "WILLY FERREIRA RIBEIRO",
+    "teamId": "rodo",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-1",
+    "name": "ALEX EMBOABA DE OLIVEIRA",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-2",
+    "name": "ALEXANDRE FERNANDES FRANCO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-3",
+    "name": "DANILO APARECIDO DOMINGUES VAZ",
+    "teamId": "uniao-da-vila",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-4",
+    "name": "DIEGO CORRÊA NONATO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-5",
+    "name": "DIEGO FIORETTO ALMEIDA",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-6",
+    "name": "EDUARDO JUNIOR AP. SIQUEIRA DE SOUZA",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-7",
+    "name": "FRANCISCO MATIAS DE FRANÇA JÚNIOR",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-8",
+    "name": "GABRIEL DE OLIVEIRA CARDOSO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-9",
+    "name": "HENRIQUE CARVALHO EBURNEO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-10",
+    "name": "IURY RODRIGUES SERRA",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-11",
+    "name": "JEFERSON ROSA PEDROSO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-12",
+    "name": "JOSE LUIZ COVAS",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-13",
+    "name": "JOSE LUIZ DA COSTA ARANTES",
+    "teamId": "uniao-da-vila",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-14",
+    "name": "JULIANO HENRIQUE SARTORI",
+    "teamId": "uniao-da-vila",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-15",
+    "name": "KAIC FEITOSA SILVA",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-16",
+    "name": "KAIKE CARDOSO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-17",
+    "name": "KLEISON FELIPE DO IMPERIO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-18",
+    "name": "LAFAERTI ALECSANDER DA SILVA",
+    "teamId": "uniao-da-vila",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-19",
+    "name": "LEANDRO APARECIDO DA SILVA",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-20",
+    "name": "LUIS AFONSO ALVES DE OLIVEIRA",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-21",
+    "name": "LUIZ GUILHERME MANOEL ANTÔNIO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-22",
+    "name": "MATEUS PINSON DE ARAUJO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-23",
+    "name": "MATHEUS DE OLIVEIRA MOREIRA GOMES",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-24",
+    "name": "MILLER GUILHERME MARIANO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-25",
+    "name": "PAULO GUILHERME L. BATISTA DO NASCIMENTO",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-26",
+    "name": "RAFAEL GALDINO COVAS",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-27",
+    "name": "RENATO ABREU FERREIRA DA SILVA",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-28",
+    "name": "ROMEU PACHECO DOS SANTOS",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-29",
+    "name": "THIAGO VENTRAMELIS",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "uniao-da-vila-30",
+    "name": "VITOR SILVA LEME",
+    "teamId": "uniao-da-vila",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-1",
+    "name": "ABEDIEL HIPOLITO DA SILVA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-2",
+    "name": "ADRIANO RODRIGO DA SILVA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-3",
+    "name": "ALISSON HENRIQUE BARROS DE SOUZA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-4",
+    "name": "ANDERSON SANTOS MARCELINO",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-5",
+    "name": "BRUNO HENRIQUE XAVIER PIRES",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 1,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-6",
+    "name": "CARLOS RENAN RODRIGUES",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-7",
+    "name": "FABIANO ISAC GALLINA COSTA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-8",
+    "name": "FRANCISCO DAS CHAGAS CASTRO BRITO",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 2,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-9",
+    "name": "FRANCISCO MARIANO DA SILVA FILHO",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-10",
+    "name": "GABRIEL DA SILVA AUGUSTO",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-11",
+    "name": "GUSTAVO ANTUNES MIRANDA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-12",
+    "name": "HENRIQUE APARECIDO SANTOS MARCELINO",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-13",
+    "name": "HENRY FELIPE DA SILVA REIS",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-14",
+    "name": "JOÃO OSCAR SUBTIL DE SOUZA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-15",
+    "name": "JOÃO VITOR FERREIRA DE LIMA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-16",
+    "name": "JOSMAR AUGUSTO AGUIAR DA SILVA JUNIOR",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-17",
+    "name": "KLEBERSON FREGONA MAMEDIO",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-18",
+    "name": "LUCAS DE ALMEIDA DOMINGUES OLIVEIRA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-19",
+    "name": "MATHEUS DE ALMEIDA DOMINGUES",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "pendurado/suspenso"
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-20",
+    "name": "MATHEUS HENRIQUE XAVIER PIRES",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso pela CTD 35/2026"
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-21",
+    "name": "MAYCON RIAN DA SILVA FREGONA MAMEDIO",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-22",
+    "name": "PEDRO DANILO XAVIER",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-23",
+    "name": "PEDRO LEONARDO MIRANDA MOURA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-24",
+    "name": "RENAN FERNANDES MARTINS",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-25",
+    "name": "RENAN GABRIEL MARQUES",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-26",
+    "name": "ROBERTO PEREIRA DE SOUZA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 1,
+    "cartoesAmarelos": 1,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-27",
+    "name": "TIAGO GINGHELESK DA COSTA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-28",
+    "name": "TIAGO HENRIQUE VIEIRA",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-29",
+    "name": "ULISSES CORREA LEITE",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0
+  },
+  {
+    "id": "vinte-e-quatro-de-maio-30",
+    "name": "VINICIUS DA SILVA FREGONA MAMEDIO",
+    "teamId": "vinte-e-quatro-de-maio",
+    "gols": 1,
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "pendurado/suspenso"
+  }
+]

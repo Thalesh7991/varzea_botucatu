@@ -1,0 +1,27 @@
+{
+  "nome": "Campeonato Botucatuense de Futebol",
+  "serie": "Série A",
+  "temporada": 2026,
+  "cidade": "Botucatu",
+  "organizador": "Prefeitura Municipal de Botucatu — Departamento de Futebol e Futsal",
+  "ultimoBoletim": {
+    "numero": 8,
+    "data": "2026-08-11"
+  },
+  "grupos": ["A", "B"],
+  "classificadosPorGrupo": 4,
+  "rebaixadosPorGrupo": 1,
+  "criteriosDesempate": [
+    "pontos",
+    "vitorias",
+    "saldoDeGols",
+    "golsPro",
+    "confrontoDireto",
+    "cartoesVermelhos",
+    "cartoesAmarelos"
+  ],
+  "regraSuspensao": {
+    "amarelosParaSuspensao": 3,
+    "descricao": "Jogador suspenso automaticamente ao completar 3 cartões amarelos (soma zera após cumprir suspensão) ou ao receber cartão vermelho."
+  }
+}

@@ -1,0 +1,19 @@
+[
+  { "id": "monte-mor", "name": "Monte Mor", "shortCode": "MTM", "group": "A", "logo": "/images/teams/monte-mor.jpeg" },
+  { "id": "amigos-da-bola", "name": "Amigos da Bola", "shortCode": "ADB", "group": "A", "logo": "/images/teams/amigos-da-bola.jpeg" },
+  { "id": "beira-rio", "name": "Beira Rio", "shortCode": "BRI", "group": "A", "logo": "/images/teams/beira-rio.jpeg" },
+  { "id": "dinamite", "name": "Dinamite", "shortCode": "DIN", "group": "A", "logo": "/images/teams/dinamite.jpeg" },
+  { "id": "primeiro-de-maio", "name": "1º de Maio", "shortCode": "1MA", "group": "A", "logo": "/images/teams/primeiro-de-maio.jpeg" },
+  { "id": "expressinho", "name": "Expressinho", "shortCode": "EXP", "group": "A", "logo": "/images/teams/expressinho.jpeg" },
+  { "id": "dkebra", "name": "D'Kebra", "shortCode": "DKB", "group": "A", "logo": "/images/teams/dkebra.jpeg" },
+  { "id": "sorocabana", "name": "Sorocabana", "shortCode": "SOR", "group": "A", "logo": "/images/teams/sorocabana.jpeg" },
+
+  { "id": "cuesta", "name": "Cuesta", "shortCode": "CUE", "group": "B", "logo": "/images/teams/cuesta.jpeg" },
+  { "id": "garagem", "name": "Garagem", "shortCode": "GAR", "group": "B", "logo": "/images/teams/garagem.png" },
+  { "id": "rodo", "name": "Rodo", "shortCode": "RDO", "group": "B", "logo": "/images/teams/rodo.jpeg" },
+  { "id": "bola-1", "name": "Bola 1", "shortCode": "BL1", "group": "B", "logo": "/images/teams/bola-1.jpeg" },
+  { "id": "atletico-botucatuense", "name": "Atlético Botucatuense", "shortCode": "ATB", "group": "B", "logo": "/images/teams/atletico-botucatuense.jpeg" },
+  { "id": "vinte-e-quatro-de-maio", "name": "24 de Maio", "shortCode": "24M", "group": "B", "logo": "/images/teams/vinte-e-quatro-de-maio.jpeg" },
+  { "id": "uniao-da-vila", "name": "União da Vila", "shortCode": "UDV", "group": "B", "logo": "/images/teams/uniao-da-vila.jpeg" },
+  { "id": "amigos-do-bita", "name": "Amigos do Bita", "shortCode": "ADBI", "group": "B", "logo": "/images/teams/amigos-do-bita.jpeg" }
+]
