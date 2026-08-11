@@ -48,7 +48,7 @@ export default function Home() {
             teamsInGroup(group).map((t) => t.id),
             matches,
             players
-          ).slice(0, 3);
+          ).slice(0, 4);
           return (
             <Card key={group} className="p-4">
               <h2 className="mb-3 font-bold tracking-tight">Líderes — Grupo {group}</h2>
