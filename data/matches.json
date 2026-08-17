@@ -28,8 +28,35 @@
   { "id": "m23", "stage": "grupos", "group": "A", "date": "2026-08-02", "homeTeamId": "monte-mor", "awayTeamId": "amigos-da-bola", "homeScore": 3, "awayScore": 0, "status": "realizado" },
   { "id": "m24", "stage": "grupos", "group": "A", "date": "2026-08-02", "homeTeamId": "dinamite", "awayTeamId": "expressinho", "homeScore": 1, "awayScore": 2, "status": "realizado" },
 
-  { "id": "m25", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "rodo", "awayTeamId": "atletico-botucatuense", "homeScore": null, "awayScore": null, "status": "agendado" },
-  { "id": "m26", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "amigos-do-bita", "awayTeamId": "vinte-e-quatro-de-maio", "homeScore": null, "awayScore": null, "status": "agendado" },
-  { "id": "m27", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "uniao-da-vila", "awayTeamId": "cuesta", "homeScore": null, "awayScore": null, "status": "agendado" },
-  { "id": "m28", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "bola-1", "awayTeamId": "garagem", "homeScore": null, "awayScore": null, "status": "agendado" }
+  { "id": "m25", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "rodo", "awayTeamId": "atletico-botucatuense", "homeScore": 1, "awayScore": 1, "status": "realizado" },
+  { "id": "m26", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "amigos-do-bita", "awayTeamId": "vinte-e-quatro-de-maio", "homeScore": 2, "awayScore": 0, "status": "realizado" },
+  { "id": "m27", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "uniao-da-vila", "awayTeamId": "cuesta", "homeScore": 0, "awayScore": 1, "status": "realizado" },
+  { "id": "m28", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "bola-1", "awayTeamId": "garagem", "homeScore": 3, "awayScore": 3, "status": "realizado" },
+
+  { "id": "m29", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "dkebra", "awayTeamId": "primeiro-de-maio", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m30", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "expressinho", "awayTeamId": "beira-rio", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m31", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "dinamite", "awayTeamId": "monte-mor", "homeScore": null, "awayScore": null, "status": "agendado" },
+
+  { "id": "m32", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "vinte-e-quatro-de-maio", "awayTeamId": "uniao-da-vila", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m33", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "cuesta", "awayTeamId": "bola-1", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m34", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "garagem", "awayTeamId": "rodo", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m35", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "atletico-botucatuense", "awayTeamId": "amigos-do-bita", "homeScore": null, "awayScore": null, "status": "agendado" },
+
+  { "id": "m36", "stage": "grupos", "group": "A", "date": "2026-09-13", "homeTeamId": "beira-rio", "awayTeamId": "amigos-da-bola", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m37", "stage": "grupos", "group": "A", "date": "2026-09-13", "homeTeamId": "primeiro-de-maio", "awayTeamId": "monte-mor", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m38", "stage": "grupos", "group": "A", "date": "2026-09-13", "homeTeamId": "dkebra", "awayTeamId": "expressinho", "homeScore": null, "awayScore": null, "status": "agendado" },
+
+  { "id": "m39", "stage": "grupos", "group": "B", "date": "2026-09-20", "homeTeamId": "garagem", "awayTeamId": "cuesta", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m40", "stage": "grupos", "group": "B", "date": "2026-09-20", "homeTeamId": "uniao-da-vila", "awayTeamId": "atletico-botucatuense", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m41", "stage": "grupos", "group": "B", "date": "2026-09-20", "homeTeamId": "bola-1", "awayTeamId": "vinte-e-quatro-de-maio", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m42", "stage": "grupos", "group": "B", "date": "2026-09-20", "homeTeamId": "rodo", "awayTeamId": "amigos-do-bita", "homeScore": null, "awayScore": null, "status": "agendado" },
+
+  { "id": "m43", "stage": "grupos", "group": "A", "date": "2026-09-27", "homeTeamId": "amigos-da-bola", "awayTeamId": "dkebra", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m44", "stage": "grupos", "group": "A", "date": "2026-09-27", "homeTeamId": "dinamite", "awayTeamId": "beira-rio", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m45", "stage": "grupos", "group": "A", "date": "2026-09-27", "homeTeamId": "expressinho", "awayTeamId": "primeiro-de-maio", "homeScore": null, "awayScore": null, "status": "agendado" },
+
+  { "id": "m46", "stage": "grupos", "group": "B", "date": "2026-10-18", "homeTeamId": "amigos-do-bita", "awayTeamId": "uniao-da-vila", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m47", "stage": "grupos", "group": "B", "date": "2026-10-18", "homeTeamId": "vinte-e-quatro-de-maio", "awayTeamId": "garagem", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m48", "stage": "grupos", "group": "B", "date": "2026-10-18", "homeTeamId": "atletico-botucatuense", "awayTeamId": "bola-1", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m49", "stage": "grupos", "group": "B", "date": "2026-10-18", "homeTeamId": "cuesta", "awayTeamId": "rodo", "homeScore": null, "awayScore": null, "status": "agendado" }
 ]
