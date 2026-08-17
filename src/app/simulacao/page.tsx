@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { config, matches, players, teamsInGroup, getTeam } from "@/lib/data";
 import { computeStandings } from "@/lib/standings";
+import { formatDateWeekday } from "@/lib/format";
 import StandingsTable from "@/components/StandingsTable";
 import TeamBadge from "@/components/TeamBadge";
 import Card from "@/components/Card";
@@ -13,7 +14,13 @@ type Placar = { home: number; away: number };
 export default function SimulacaoPage() {
   const [overrides, setOverrides] = useState<Record<string, Placar>>({});
 
-  const scheduled = useMemo(() => matches.filter((m) => m.status === "agendado"), []);
+  const scheduled = useMemo(
+    () =>
+      matches
+        .filter((m) => m.status === "agendado")
+        .sort((a, b) => (a.date ?? "").localeCompare(b.date ?? "")),
+    []
+  );
   const simulando = Object.keys(overrides).length > 0;
 
   const effectiveMatches: Match[] = useMemo(
@@ -38,10 +45,19 @@ export default function SimulacaoPage() {
     setOverrides({});
   }
 
-  const groupedFixtures = config.grupos.map((group) => ({
-    group,
-    fixtures: scheduled.filter((m) => m.group === group),
-  }));
+  const groupedFixtures = useMemo(() => {
+    const order: string[] = [];
+    const byDate = new Map<string, Match[]>();
+    for (const m of scheduled) {
+      const key = m.date ?? "sem-data";
+      if (!byDate.has(key)) {
+        byDate.set(key, []);
+        order.push(key);
+      }
+      byDate.get(key)!.push(m);
+    }
+    return order.map((date) => ({ date, fixtures: byDate.get(date)! }));
+  }, [scheduled]);
 
   return (
     <div className="flex flex-col gap-8">
@@ -64,10 +80,13 @@ export default function SimulacaoPage() {
       </div>
 
       {groupedFixtures.map(
-        ({ group, fixtures }) =>
+        ({ date, fixtures }) =>
           fixtures.length > 0 && (
-            <section key={group}>
-              <h2 className="mb-2.5 font-bold tracking-tight">Próximos jogos — Grupo {group}</h2>
+            <section key={date}>
+              <h2 className="mb-2.5 font-bold tracking-tight">
+                Rodada de {date === "sem-data" ? "data a definir" : formatDateWeekday(date)}
+                {fixtures.every((f) => f.group === fixtures[0].group) ? ` — Grupo ${fixtures[0].group}` : ""}
+              </h2>
               <div className="flex flex-col gap-2.5">
                 {fixtures.map((m) => {
                   const home = getTeam(m.homeTeamId)!;
