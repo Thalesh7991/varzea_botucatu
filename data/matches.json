@@ -33,9 +33,9 @@
   { "id": "m27", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "uniao-da-vila", "awayTeamId": "cuesta", "homeScore": 0, "awayScore": 1, "status": "realizado" },
   { "id": "m28", "stage": "grupos", "group": "B", "date": "2026-08-16", "homeTeamId": "bola-1", "awayTeamId": "garagem", "homeScore": 3, "awayScore": 3, "status": "realizado" },
 
-  { "id": "m29", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "dkebra", "awayTeamId": "primeiro-de-maio", "homeScore": null, "awayScore": null, "status": "agendado" },
-  { "id": "m30", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "expressinho", "awayTeamId": "beira-rio", "homeScore": null, "awayScore": null, "status": "agendado" },
-  { "id": "m31", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "dinamite", "awayTeamId": "monte-mor", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m29", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "dkebra", "awayTeamId": "primeiro-de-maio", "homeScore": 1, "awayScore": 3, "status": "realizado" },
+  { "id": "m30", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "expressinho", "awayTeamId": "beira-rio", "homeScore": 1, "awayScore": 2, "status": "realizado" },
+  { "id": "m31", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "dinamite", "awayTeamId": "monte-mor", "homeScore": 2, "awayScore": 3, "status": "realizado" },
 
   { "id": "m32", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "vinte-e-quatro-de-maio", "awayTeamId": "uniao-da-vila", "homeScore": null, "awayScore": null, "status": "agendado" },
   { "id": "m33", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "cuesta", "awayTeamId": "bola-1", "homeScore": null, "awayScore": null, "status": "agendado" },
