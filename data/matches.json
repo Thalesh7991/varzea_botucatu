@@ -1,7 +1,7 @@
 [
   { "id": "m1", "stage": "grupos", "group": "A", "date": null, "homeTeamId": "beira-rio", "awayTeamId": "monte-mor", "homeScore": 3, "awayScore": 1, "status": "realizado" },
   { "id": "m2", "stage": "grupos", "group": "A", "date": null, "homeTeamId": "dkebra", "awayTeamId": "dinamite", "homeScore": 2, "awayScore": 2, "status": "realizado" },
-  { "id": "m3", "stage": "grupos", "group": "A", "date": null, "homeTeamId": "expressinho", "awayTeamId": "amigos-da-bola", "homeScore": 0, "awayScore": 4, "status": "realizado" },
+  { "id": "m3", "stage": "grupos", "group": "A", "date": null, "homeTeamId": "expressinho", "awayTeamId": "amigos-da-bola", "homeScore": 1, "awayScore": 4, "status": "realizado" },
   { "id": "m4", "stage": "grupos", "group": "B", "date": null, "homeTeamId": "bola-1", "awayTeamId": "amigos-do-bita", "homeScore": 5, "awayScore": 2, "status": "realizado" },
   { "id": "m5", "stage": "grupos", "group": "B", "date": null, "homeTeamId": "uniao-da-vila", "awayTeamId": "rodo", "homeScore": 2, "awayScore": 3, "status": "realizado" },
   { "id": "m6", "stage": "grupos", "group": "B", "date": null, "homeTeamId": "garagem", "awayTeamId": "atletico-botucatuense", "homeScore": 1, "awayScore": 1, "status": "realizado" },

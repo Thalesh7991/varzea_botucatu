@@ -1,0 +1,37 @@
+[
+  {
+    "data": "2026-08-14",
+    "porTime": {
+      "garagem": {
+        "entraram": [
+          "Diego da Silva Tomazzi Melo",
+          "Diogo Aparecido de Oliveira",
+          "Fernando Henrique Lopes",
+          "Paulo Barbosa Junior"
+        ],
+        "sairam": ["Deivid Vinicius Saraiva Camargo"]
+      },
+      "amigos-do-bita": {
+        "entraram": ["Gianlucca Mirto"],
+        "sairam": []
+      },
+      "expressinho": {
+        "entraram": [],
+        "sairam": ["Leandro Rodrigues"]
+      }
+    }
+  },
+  {
+    "data": "2026-08-18",
+    "porTime": {
+      "primeiro-de-maio": {
+        "entraram": ["Diego Venâncio de Almeida", "Guilherme Costa Gonçalves dos Santos"],
+        "sairam": ["Bruno Reguini de Brandi", "Wesley Simeão dos Santos"]
+      },
+      "dinamite": {
+        "entraram": ["Dario Leme Vitor"],
+        "sairam": ["Samuel Carlos Basseto de Freitas"]
+      }
+    }
+  }
+]
