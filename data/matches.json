@@ -37,10 +37,10 @@
   { "id": "m30", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "expressinho", "awayTeamId": "beira-rio", "homeScore": 1, "awayScore": 2, "status": "realizado" },
   { "id": "m31", "stage": "grupos", "group": "A", "date": "2026-08-23", "homeTeamId": "dinamite", "awayTeamId": "monte-mor", "homeScore": 2, "awayScore": 3, "status": "realizado" },
 
-  { "id": "m32", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "vinte-e-quatro-de-maio", "awayTeamId": "uniao-da-vila", "homeScore": null, "awayScore": null, "status": "agendado" },
-  { "id": "m33", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "cuesta", "awayTeamId": "bola-1", "homeScore": null, "awayScore": null, "status": "agendado" },
-  { "id": "m34", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "garagem", "awayTeamId": "rodo", "homeScore": null, "awayScore": null, "status": "agendado" },
-  { "id": "m35", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "atletico-botucatuense", "awayTeamId": "amigos-do-bita", "homeScore": null, "awayScore": null, "status": "agendado" },
+  { "id": "m32", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "vinte-e-quatro-de-maio", "awayTeamId": "uniao-da-vila", "homeScore": 2, "awayScore": 2, "status": "realizado" },
+  { "id": "m33", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "cuesta", "awayTeamId": "bola-1", "homeScore": 3, "awayScore": 2, "status": "realizado" },
+  { "id": "m34", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "garagem", "awayTeamId": "rodo", "homeScore": 3, "awayScore": 2, "status": "realizado" },
+  { "id": "m35", "stage": "grupos", "group": "B", "date": "2026-08-30", "homeTeamId": "atletico-botucatuense", "awayTeamId": "amigos-do-bita", "homeScore": 2, "awayScore": 1, "status": "realizado" },
 
   { "id": "m36", "stage": "grupos", "group": "A", "date": "2026-09-13", "homeTeamId": "beira-rio", "awayTeamId": "amigos-da-bola", "homeScore": null, "awayScore": null, "status": "agendado" },
   { "id": "m37", "stage": "grupos", "group": "A", "date": "2026-09-13", "homeTeamId": "primeiro-de-maio", "awayTeamId": "monte-mor", "homeScore": null, "awayScore": null, "status": "agendado" },

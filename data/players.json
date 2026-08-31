@@ -715,7 +715,8 @@
     "teamId": "beira-rio",
     "gols": 0,
     "cartoesAmarelos": 0,
-    "cartoesVermelhos": 0
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso"
   },
   {
     "id": "beira-rio-2",
@@ -729,8 +730,8 @@
     "id": "beira-rio-3",
     "name": "ARTHUR KAIO DA CRUZ COELHO",
     "teamId": "beira-rio",
-    "gols": 2,
-    "cartoesAmarelos": 0,
+    "gols": 4,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -738,7 +739,7 @@
     "name": "CASSIANO AUGUSTO TOMAZ FLORO",
     "teamId": "beira-rio",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -770,7 +771,7 @@
     "name": "GABRIEL DOS SANTOS FERREIRA",
     "teamId": "beira-rio",
     "gols": 1,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -786,7 +787,7 @@
     "name": "JOÃO EUDES PEREIRA SIMPLICIO",
     "teamId": "beira-rio",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -898,7 +899,7 @@
     "name": "WILLIAN GABRIEL VIEIRA DOS SANTOS",
     "teamId": "beira-rio",
     "gols": 2,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -906,7 +907,7 @@
     "name": "WILLIAN ROBERTO ROMUALDO",
     "teamId": "beira-rio",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1363,7 +1364,7 @@
     "id": "dinamite-1",
     "name": "ADRIANO CATUREBA DE JESUS",
     "teamId": "dinamite",
-    "gols": 5,
+    "gols": 6,
     "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
@@ -1372,7 +1373,7 @@
     "name": "ALEX ALBERTO RODRIGUES",
     "teamId": "dinamite",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1429,7 +1430,7 @@
     "name": "EVANDRO BRUDER PERGER",
     "teamId": "dinamite",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1478,7 +1479,7 @@
     "name": "JOÃO GABRIEL LEANDRO DA SILVA",
     "teamId": "dinamite",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1542,7 +1543,7 @@
     "id": "dinamite-23",
     "name": "PAULO AFONSO ALVES",
     "teamId": "dinamite",
-    "gols": 0,
+    "gols": 1,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -1631,7 +1632,7 @@
     "name": "ANTONIO JORDIEGO DA SILVA",
     "teamId": "dkebra",
     "gols": 2,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1671,7 +1672,7 @@
     "name": "DIEGO FERNANDO DA SILVA VAZ",
     "teamId": "dkebra",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -1727,7 +1728,7 @@
     "name": "JOÃO VICTOR SPINA GERMIN",
     "teamId": "dkebra",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -1752,7 +1753,8 @@
     "teamId": "dkebra",
     "gols": 0,
     "cartoesAmarelos": 0,
-    "cartoesVermelhos": 0
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso"
   },
   {
     "id": "dkebra-21",
@@ -1807,15 +1809,15 @@
     "name": "MATEUS VINICIUS DE ARRUDA",
     "teamId": "dkebra",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
     "id": "dkebra-29",
     "name": "PETERSON TIAGO DA SILVA",
     "teamId": "dkebra",
-    "gols": 0,
-    "cartoesAmarelos": 0,
+    "gols": 1,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -1935,7 +1937,7 @@
     "name": "JOÃO VICTOR DAS FLORES PIRES",
     "teamId": "expressinho",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1976,14 +1978,15 @@
     "teamId": "expressinho",
     "gols": 0,
     "cartoesAmarelos": 0,
-    "cartoesVermelhos": 0
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso"
   },
   {
     "id": "expressinho-18",
     "name": "LUCAS FERNANDO DE SOUSA MATOS",
     "teamId": "expressinho",
     "gols": 2,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1999,7 +2002,7 @@
     "name": "LUIS OTAVIO CORREA BARBOSA",
     "teamId": "expressinho",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -2071,14 +2074,14 @@
     "name": "WELLINGTON SOARES DA SILVA",
     "teamId": "expressinho",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
     "id": "garagem-1",
     "name": "BRUNO ALBERTO GODOY",
     "teamId": "garagem",
-    "gols": 1,
+    "gols": 2,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -2127,7 +2130,7 @@
     "id": "garagem-8",
     "name": "FERNANDO CORREIA",
     "teamId": "garagem",
-    "gols": 1,
+    "gols": 2,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -2249,7 +2252,7 @@
     "id": "garagem-23",
     "name": "NICOLAS ANDRE DA SILVA",
     "teamId": "garagem",
-    "gols": 5,
+    "gols": 6,
     "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
@@ -2337,7 +2340,7 @@
     "id": "monte-mor-4",
     "name": "DANILO DE OLIVEIRA",
     "teamId": "monte-mor",
-    "gols": 1,
+    "gols": 2,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -2345,8 +2348,8 @@
     "id": "monte-mor-5",
     "name": "DIOGO HENRIQUE DE SOUZA",
     "teamId": "monte-mor",
-    "gols": 2,
-    "cartoesAmarelos": 0,
+    "gols": 3,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -2465,7 +2468,7 @@
     "id": "monte-mor-20",
     "name": "MATHEUS FELIPE BORGES",
     "teamId": "monte-mor",
-    "gols": 0,
+    "gols": 1,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -2578,7 +2581,7 @@
     "id": "primeiro-de-maio-5",
     "name": "ELTON APARECIDO MENDONÇA",
     "teamId": "primeiro-de-maio",
-    "gols": 0,
+    "gols": 1,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -2604,7 +2607,7 @@
     "name": "JOÃO PEDRO DA CRUZ CAVALCANTE NASCIMENTO",
     "teamId": "primeiro-de-maio",
     "gols": 3,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -2676,8 +2679,9 @@
     "name": "SAMUEL MARQUES LACERDA",
     "teamId": "primeiro-de-maio",
     "gols": 0,
-    "cartoesAmarelos": 2,
-    "cartoesVermelhos": 0
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "pendurado/suspenso"
   },
   {
     "id": "primeiro-de-maio-18",
@@ -2739,7 +2743,7 @@
     "id": "primeiro-de-maio-26",
     "name": "DIEGO VENÂNCIO DE ALMEIDA",
     "teamId": "primeiro-de-maio",
-    "gols": 0,
+    "gols": 1,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -2747,7 +2751,7 @@
     "id": "primeiro-de-maio-27",
     "name": "GUILHERME COSTA GONÇALVES DOS SANTOS",
     "teamId": "primeiro-de-maio",
-    "gols": 0,
+    "gols": 1,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
