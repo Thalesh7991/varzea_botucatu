@@ -110,6 +110,7 @@ export default function SimulacaoPage() {
                           min={0}
                           value={o?.home ?? ""}
                           onChange={(e) => setScore(m.id, "home", e.target.value)}
+                          onFocus={(e) => e.target.select()}
                           placeholder="0"
                           className="tnum w-12 rounded-lg border border-black/15 bg-transparent px-1 py-1.5 text-center font-semibold focus:border-emerald-500 focus:outline-none dark:border-white/20"
                         />
@@ -119,6 +120,7 @@ export default function SimulacaoPage() {
                           min={0}
                           value={o?.away ?? ""}
                           onChange={(e) => setScore(m.id, "away", e.target.value)}
+                          onFocus={(e) => e.target.select()}
                           placeholder="0"
                           className="tnum w-12 rounded-lg border border-black/15 bg-transparent px-1 py-1.5 text-center font-semibold focus:border-emerald-500 focus:outline-none dark:border-white/20"
                         />
