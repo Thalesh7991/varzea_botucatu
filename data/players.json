@@ -263,7 +263,7 @@
     "name": "FRANCISCO RAMON DA SILVA SANTOS",
     "teamId": "amigos-do-bita",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -295,7 +295,7 @@
     "name": "JOÃO VYTOR DE SOUZA BUENO",
     "teamId": "amigos-do-bita",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -320,7 +320,7 @@
     "name": "KAYKY WICTOR ANDRADE GARCIA",
     "teamId": "amigos-do-bita",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -490,7 +490,7 @@
     "name": "CLEITON SERRA DO NASCIMENTO",
     "teamId": "atletico-botucatuense",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -498,7 +498,7 @@
     "name": "DOUGLAS EDUARDO RODRIGUES DE JESUS",
     "teamId": "atletico-botucatuense",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -522,8 +522,9 @@
     "name": "GUILHERME ARAUJO DE FREITAS",
     "teamId": "atletico-botucatuense",
     "gols": 2,
-    "cartoesAmarelos": 2,
-    "cartoesVermelhos": 0
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "suspenso"
   },
   {
     "id": "atletico-botucatuense-8",
@@ -545,7 +546,7 @@
     "id": "atletico-botucatuense-10",
     "name": "GUSTAVO FLAVIO DE CAMPOS",
     "teamId": "atletico-botucatuense",
-    "gols": 1,
+    "gols": 2,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -578,7 +579,7 @@
     "name": "JOÃO VITOR DE OLIVEIRA MAZZA",
     "teamId": "atletico-botucatuense",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -621,7 +622,8 @@
     "teamId": "atletico-botucatuense",
     "gols": 1,
     "cartoesAmarelos": 0,
-    "cartoesVermelhos": 0
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso"
   },
   {
     "id": "atletico-botucatuense-20",
@@ -992,7 +994,8 @@
     "teamId": "bola-1",
     "gols": 0,
     "cartoesAmarelos": 0,
-    "cartoesVermelhos": 0
+    "cartoesVermelhos": 1,
+    "observacao": "suspenso"
   },
   {
     "id": "bola-1-11",
@@ -1031,7 +1034,7 @@
     "name": "GUSTAVO VIEIRA FOGAÇA",
     "teamId": "bola-1",
     "gols": 2,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1176,8 +1179,9 @@
     "name": "EDUARDO ANDRADE IGNACIO",
     "teamId": "cuesta",
     "gols": 0,
-    "cartoesAmarelos": 2,
-    "cartoesVermelhos": 0
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "suspenso"
   },
   {
     "id": "cuesta-8",
@@ -1248,7 +1252,7 @@
     "name": "MAICON CESAR COELHO ROSA",
     "teamId": "cuesta",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -1304,7 +1308,7 @@
     "name": "RENATO PEREIRA JUNIOR",
     "teamId": "cuesta",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -1360,7 +1364,7 @@
     "id": "cuesta-30",
     "name": "WESLEY RODRIGUES DE LIMA",
     "teamId": "cuesta",
-    "gols": 0,
+    "gols": 1,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -2265,7 +2269,7 @@
     "name": "NICOLAS ANDREY CRISPIM RODRIGUES",
     "teamId": "garagem",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -2280,9 +2284,10 @@
     "id": "garagem-26",
     "name": "SAMUEL HENRIQUE DA SILVA",
     "teamId": "garagem",
-    "gols": 1,
-    "cartoesAmarelos": 2,
-    "cartoesVermelhos": 0
+    "gols": 2,
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "suspenso"
   },
   {
     "id": "garagem-27",
@@ -2767,7 +2772,7 @@
     "name": "ANSELMO DE JESUS FAZZANI FILHO",
     "teamId": "rodo",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -2783,7 +2788,7 @@
     "name": "GEOVANE MENEZES DE ANDRADE",
     "teamId": "rodo",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -2806,7 +2811,7 @@
     "id": "rodo-6",
     "name": "KAUÃ VICTOR DE CAMPOS SILVA",
     "teamId": "rodo",
-    "gols": 0,
+    "gols": 1,
     "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
@@ -2856,7 +2861,7 @@
     "id": "rodo-12",
     "name": "MARCOS ANTONIO DE COLL TRINDADE",
     "teamId": "rodo",
-    "gols": 1,
+    "gols": 2,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 0
   },
@@ -2873,7 +2878,7 @@
     "name": "RICARDO RIBEIRO FILHO",
     "teamId": "rodo",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -2930,7 +2935,7 @@
     "name": "ALEXANDRE FERNANDES FRANCO",
     "teamId": "uniao-da-vila",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -2954,8 +2959,9 @@
     "name": "DIEGO FIORETTO ALMEIDA",
     "teamId": "uniao-da-vila",
     "gols": 2,
-    "cartoesAmarelos": 2,
-    "cartoesVermelhos": 0
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "suspenso"
   },
   {
     "id": "uniao-da-vila-6",
@@ -2986,7 +2992,7 @@
     "name": "HENRIQUE CARVALHO EBURNEO",
     "teamId": "uniao-da-vila",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -2994,7 +3000,7 @@
     "name": "IURY RODRIGUES SERRA",
     "teamId": "uniao-da-vila",
     "gols": 0,
-    "cartoesAmarelos": 0,
+    "cartoesAmarelos": 1,
     "cartoesVermelhos": 0
   },
   {
@@ -3114,8 +3120,9 @@
     "name": "RAFAEL GALDINO COVAS",
     "teamId": "uniao-da-vila",
     "gols": 0,
-    "cartoesAmarelos": 2,
-    "cartoesVermelhos": 0
+    "cartoesAmarelos": 3,
+    "cartoesVermelhos": 0,
+    "observacao": "suspenso"
   },
   {
     "id": "uniao-da-vila-27",
@@ -3203,7 +3210,7 @@
     "name": "FABIANO ISAC GALLINA COSTA",
     "teamId": "vinte-e-quatro-de-maio",
     "gols": 0,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -3309,7 +3316,7 @@
     "id": "vinte-e-quatro-de-maio-20",
     "name": "MATHEUS HENRIQUE XAVIER PIRES",
     "teamId": "vinte-e-quatro-de-maio",
-    "gols": 0,
+    "gols": 1,
     "cartoesAmarelos": 0,
     "cartoesVermelhos": 1,
     "observacao": "suspenso pela CTD 35/2026"
@@ -3360,7 +3367,7 @@
     "name": "ROBERTO PEREIRA DE SOUZA",
     "teamId": "vinte-e-quatro-de-maio",
     "gols": 3,
-    "cartoesAmarelos": 1,
+    "cartoesAmarelos": 2,
     "cartoesVermelhos": 0
   },
   {
@@ -3391,8 +3398,8 @@
     "id": "vinte-e-quatro-de-maio-30",
     "name": "VINICIUS DA SILVA FREGONA MAMEDIO",
     "teamId": "vinte-e-quatro-de-maio",
-    "gols": 1,
-    "cartoesAmarelos": 4,
+    "gols": 3,
+    "cartoesAmarelos": 5,
     "cartoesVermelhos": 0,
     "observacao": "pendurado/suspenso"
   }
